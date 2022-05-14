@@ -1,0 +1,52 @@
+[
+    {
+        "id": "",
+        "imagem": "https://img.elo7.com.br/product/294x234/21C0E30/camiseta-baby-look-feminina-olho-do-universo-estampa-total-camiseta-hd.jpg",
+        "titulo": "Camiseta 1",
+        "preco": 55
+    },
+    {
+        "id": "",
+        "imagem": "https://img.elo7.com.br/product/294x234/21B3412/camiseta-masculina-longline-swag-espacial-astronauta-masculina.jpg",
+        "titulo": "Camiseta 2",
+        "preco": 100
+    },
+
+    {
+        "id": "",
+        "imagem": "https://img.elo7.com.br/product/294x234/21B3D1B/camiseta-masculina-longline-swag-galaxia-estampa-digital-masculina.jpg",
+        "titulo": "Camiseta 3",
+        "preco": 75 
+    },
+    {
+        "id": "",
+        "imagem": "https://img.elo7.com.br/product/294x234/21B43AF/camiseta-masculina-longline-swag-naves-espaciais-full-print.jpg",
+        "titulo": "Camiseta 4",
+        "preco": 65 
+    },
+    {
+        "id": "",
+        "imagem": "https://img.elo7.com.br/product/294x234/21B448C/camiseta-masculina-longline-swag-olho-do-universo-olho.jpg",
+        "titulo": "Camiseta 5",
+        "preco": 80
+    },
+    {
+        "id": "",
+        "imagem": "https://img.elo7.com.br/product/294x234/2E534F1/camiseta-baby-look-feminina-galaxia-nebulosa-md04-camiseta.jpg",
+        "titulo": "Camiseta 6",
+        "preco": 170
+    },
+
+    {
+        "id": "",
+        "imagem": "https://img.elo7.com.br/product/294x234/2E4DE4F/camiseta-masculina-galaxia-chuva-de-meteoros-md05-estrela.jpg",
+        "titulo": "Camiseta 7",
+        "preco": 125 
+    },
+    {
+        "id": "",
+        "imagem": "https://img.elo7.com.br/product/294x234/2E4DE17/camiseta-masculina-galaxia-nebulosa-md03-total-print.jpg",
+        "titulo": "Camiseta 8",
+        "preco": 98 
+    }
+]
