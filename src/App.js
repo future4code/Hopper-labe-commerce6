@@ -2,8 +2,10 @@ import React from 'react';
 import styled from 'styled-components';
 import Footer from './components/Footer';
 import Header from './components/Header';
+
 import CardCamiseta from './components/CardCamiseta.js';
 //import infoProduto from '../dados/produtos.json';
+
 
 const MainContainer = styled.div`
 display: flex;
