@@ -4,6 +4,7 @@ import styled from 'styled-components';
 
 const HeaderContainer = styled.header`
 display: flex;
+justify-content: center;
 `
 
 const ListadoMenu = styled.ul`
@@ -23,12 +24,6 @@ function Header () {
                 <p>
                     Camiseteria Labenu
                 </p>
-                <ListadoMenu>
-                    <li>Masculino</li>
-                    <li>Feminino</li>
-                    <li>Carrinho</li>
-                </ListadoMenu>
-
             </HeaderContainer>
 
 );

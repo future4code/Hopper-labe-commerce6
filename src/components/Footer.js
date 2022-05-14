@@ -9,7 +9,6 @@ const FootContainer = styled.footer`
 display: flex;
 justify-content: space-around;
 background-color: gray;
-width: 75vw;
 `
 
 const Img = styled.img`

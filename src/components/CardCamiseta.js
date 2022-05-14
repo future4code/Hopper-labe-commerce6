@@ -1,46 +1,29 @@
 import React from 'react';
 import styled from 'styled-components';
 
+
 const CardContainer = styled.div`
 display: flex;
 flex-direction: column;
-border: 1px solid;
+border: 1px solid gray;
+margin: 10px;
+align-items: center;
 `
 
-class CardCamiseta extends React.Component {
-    state = {
-       cards: [
-            {
-                imagem: "https://picsum.photos/50/51",
-                valor: "R$ 5454",
-                nome: "Camiseta A",
-                tam: "P",
-                tipo: "Mas"
-            }
-        ]
-    }
-
-
-    onChange
-
-    render () {
+function CardCamiseta(props)  {
   
-      return (
-       
+      return (       
         <CardContainer>
-            <img src="https://picsum.photos/50/51" />
-            <p>
-                Nome camiseta
-            </p>
-            <p>
-                Preço R$ 34
-            </p>
-
+            <img src={props.imagem} />
+            <h1>
+             {props.titulo}
+            </h1> 
+            <h3>
+            R$ {props.valor.toFixed(2)}                
+            </h3> 
+            <button></button>
         </CardContainer>
 
 );
 }
-}
-
-
 export default CardCamiseta;
