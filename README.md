@@ -1,27 +1,14 @@
 ## Projeto E-COMERCE
 
-Projeto para aplicação de HTML e CSS aprendidos em aula. Iniciando trabalho com **HTML** básico e algumas aplicações em **CSS** como:
+Projeto React, trabalho com renderização de componentes. Criação de um E-commerce:
 
-### CSS
-- Flex;
-- Grid;
-- Alinhamentos;
-- Formatação;
+## React
 
-### HTML
-- Inserindo conteúdo;
-- Estruturação para aplicação de CSS;
 
-> Conteúdo utilizado foi o próprio currículo, com experiências profissionais e conhecimentos.
+> Conteúdo proposto pela Labenu, com tema espacial. Escolhido tema camiseteria com estampas espaciais.
 ### Páginas
-- Home;
-    - Breve resumo de qualificações e trabalhos realizados;
-- Sobre;
-    - Detalhamento de qualificações, experiências profissionais e Formação;
-- Trabalhos realizados;
-    - Alguns dos principais trabalhos realizados nos últimos anos;
-- Contato;
-    - Uma área de contato para se obter mais informações e contatos pessoais para novas oportunidades de negócios.
+- Produtos:
+    Utilização de filtros e carrinho
 
 ## Statuss do Projeto
 <h4 align="center"> 
@@ -32,10 +19,11 @@ Projeto para aplicação de HTML e CSS aprendidos em aula. Iniciando trabalho co
 
 - HTML;
 - CSS;
-- VSCode
+- VSCode;
+- React
 
 ## Surge
-
+uppity-cloth.surge.sh
 
 ### Autor
 

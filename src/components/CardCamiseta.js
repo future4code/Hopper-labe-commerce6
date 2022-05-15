@@ -7,6 +7,9 @@ flex-direction: column;
 border: 1px solid gray;
 margin: 10px;
 align-items: center;
+img{
+  height: 150px;
+}
 `
 
 function CardCamiseta(props)  {
@@ -14,13 +17,13 @@ function CardCamiseta(props)  {
       return (       
         <CardContainer>
             <img src={props.imagem} />
-            <h1>
+            <h2>
              {props.titulo}
-            </h1> 
+            </h2> 
             <h3>
             R$ {props.valor.toFixed(2)}                
             </h3> 
-            <button></button>
+            <button onClick={() => this.props.adicionarAoCarrinho}>Adicionar Carrinho</button>
         </CardContainer>
 
 );
